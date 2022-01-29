@@ -8,6 +8,10 @@ public class Main {
         milkyway.sun=1;
         milkyway.moon=2;
         milkyway.Planets=3;
-        System.out.println("");
+
+        SUN Solana=new SUN();
+        Solana.Heat="423423476";
+        Solana.radius="6546456km";
+        Solana.temp=12312312c;
     }
 }
