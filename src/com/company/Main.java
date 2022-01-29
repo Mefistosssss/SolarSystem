@@ -13,5 +13,10 @@ public class Main {
         Solana.Heat="423423476";
         Solana.radius="6546456km";
         Solana.temp="12312312c";
+
+        //add feature planet 2
+        PLANET2 Neptun= new PLANET2();
+        Neptun.color="White";
+        Neptun.size="23123123213km";
     }
 }
